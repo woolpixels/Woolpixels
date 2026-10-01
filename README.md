@@ -1,9 +1,15 @@
-# Woolpixels
+## 👋 关于
 
-**做小而用心的 App。**
-因为自己想用，所以把它做出来。Woolpixels，把日常里的小需求做成真正好用的工具。
+Hi，我是 Woolpixels，一名独立开发者。
 
-🌐 [woolpixels.cc](https://woolpixels.cc)
+我相信好工具不必喧哗，只需安静地把一件事做好。这里的每个产品都从我自己的真实需求出发：追剧、读书、听歌、整理文件、做设计……做出来先自己用，用顺手了再分享给你。
+
+### 我做产品的几条原则
+
+- 🧶 **小而专注**：一个工具只解决一件事，并把它做好
+- 🔒 **本地优先**：数据留在你的设备上，文件全程本地处理，不上传
+- 🌿 **不打扰**：不抓取、不强行社交、没有多余的提醒
+- ☁️ **按需同步**：iOS 应用支持 iCloud 同步，由你决定
 
 ## App Store 上架应用
 
@@ -36,4 +42,13 @@
 
 ## 联系
 
-[小红书](https://xhslink.cn/o/7EEkbW1Uyh8) · [odyssey.moment@outlook.com](mailto:odyssey.moment@outlook.com)
+- 🏠 官网：[woolpixels.cc](https://woolpixels.cc/)
+- 🌐 GitHub：[github.com/woolpixels](https://github.com/woolpixels)
+- 📕 小红书：[Woolpixels](https://xhslink.cn/o/7EEkbW1Uyh8)
+- ✉️ 邮箱：[odyssey.moment@outlook.com](mailto:odyssey.moment@outlook.com)
+
+遇到问题或有想法，欢迎在对应项目的 Issues 里留言，或通过以上方式找到我。
+
+---
+
+<sub>Made with 🧶 by Woolpixels · 小而用心，持续打磨</sub>
