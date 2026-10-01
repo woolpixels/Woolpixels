@@ -13,22 +13,22 @@ Hi，我是 Woolpixels，一名独立开发者。
 
 ## App Store 上架应用
 
-| 应用 | 简介 | 下载 |
-| --- | --- | --- |
-| <img src="assets/icons/odyssey.png" width="48" height="48" alt="追追追"> **追追追** · Odyssey | 个人观影收藏。海报墙、片刻、我超爱、追剧日历，不抓取、不社交、不打扰，支持 iCloud 同步。 | [App Store](https://apps.apple.com/cn/app/%E8%BF%BD%E8%BF%BD%E8%BF%BD/id6772548326) |
-| <img src="assets/icons/gutlog.png" width="48" height="48" alt="便历"> **便历** · GutLog | 轻量记录每日排便，用日历看见自己的规律。数据本地保存，支持 iCloud 同步、备份与导入导出。仅作个人记录，不提供医学诊断。 | [App Store](https://apps.apple.com/cn/app/%E4%BE%BF%E5%8E%86-%E6%8E%92%E4%BE%BF%E8%AE%B0%E5%BD%95/id6786214588) |
+| 图标 | 名称 | 简介 | 下载 |
+| --- | --- | --- | --- |
+| <img src="assets/icons/odyssey.png" width="48" height="48" alt="追追追"> | **追追追** · Odyssey | 个人观影收藏。海报墙、片刻、我超爱、追剧日历，不抓取、不社交、不打扰，支持 iCloud 同步。 | [App Store](https://apps.apple.com/cn/app/%E8%BF%BD%E8%BF%BD%E8%BF%BD/id6772548326) |
+| <img src="assets/icons/gutlog.png" width="48" height="48" alt="便历"> | **便历** · GutLog | 轻量记录每日排便，用日历看见自己的规律。数据本地保存，支持 iCloud 同步、备份与导入导出。仅作个人记录，不提供医学诊断。 | [App Store](https://apps.apple.com/cn/app/%E4%BE%BF%E5%8E%86-%E6%8E%92%E4%BE%BF%E8%AE%B0%E5%BD%95/id6786214588) |
 
 ## 公开工具
 
 为小众场景做的小工具，开放给需要的人。
 
-| 工具 | 简介 | 下载 |
-| --- | --- | --- |
-| <img src="assets/icons/maki.png" width="48" height="48" alt="巻纂"> **巻纂** · Maki | 把零散漫画装订成册。支持 PDF / EPUB / MOBI / AZW3，自动排序、分册并生成带封面与目录的单行本。 | [Releases](https://github.com/woolpixels/Maki-releases) |
-| <img src="assets/icons/kusuri.png" width="48" height="48" alt="薬"> **薬** · Kusuri | Kindle 无线图书与文件管理。自动分类、筛选与排序，支持阅读进度、最近加入、久未阅读和安全删除。 | [Releases](https://github.com/woolpixels/Kusuri-releases) |
-| <img src="assets/icons/nuki.png" width="48" height="48" alt="抜き"> **抜き** · Nuki | 小说角色抽读工具。按角色、CP 或关键词筛出相关章节，把喜欢的那条线单独拎出来，重组成书。 | [Releases](https://github.com/woolpixels/Nuki-releases) |
-| <img src="assets/icons/singalong.png" width="48" height="48" alt="一起唱"> **一起唱** · SingAlong | 为 Mac 做的桌面歌词工具。自动识别 Apple Music / Spotify，把歌词放在桌面一角。 | [Releases](https://github.com/woolpixels/SingAlong-releases) |
-| <img src="assets/icons/otoji.png" width="48" height="48" alt="音綴"> **音綴** · Otoji | 本地音频处理工具。提取视频里的音频，快速裁切、排序和拼接，几段素材很快串成一首。 | [Otoji](https://github.com/woolpixels/Otoji) |
+| 图标 | 名称 | 简介 | 下载 |
+| --- | --- | --- | --- |
+| <img src="assets/icons/maki.png" width="48" height="48" alt="巻纂"> | **巻纂** · Maki | 把零散漫画装订成册。支持 PDF / EPUB / MOBI / AZW3，自动排序、分册并生成带封面与目录的单行本。 | [Releases](https://github.com/woolpixels/Maki-releases) |
+| <img src="assets/icons/kusuri.png" width="48" height="48" alt="薬"> | **薬** · Kusuri | Kindle 无线图书与文件管理。自动分类、筛选与排序，支持阅读进度、最近加入、久未阅读和安全删除。 | [Releases](https://github.com/woolpixels/Kusuri-releases) |
+| <img src="assets/icons/nuki.png" width="48" height="48" alt="抜き"> | **抜き** · Nuki | 小说角色抽读工具。按角色、CP 或关键词筛出相关章节，把喜欢的那条线单独拎出来，重组成书。 | [Releases](https://github.com/woolpixels/Nuki-releases) |
+| <img src="assets/icons/singalong.png" width="48" height="48" alt="一起唱"> | **一起唱** · SingAlong | 为 Mac 做的桌面歌词工具。自动识别 Apple Music / Spotify，把歌词放在桌面一角。 | [Releases](https://github.com/woolpixels/SingAlong-releases) |
+| <img src="assets/icons/otoji.png" width="48" height="48" alt="音綴"> | **音綴** · Otoji | 本地音频处理工具。提取视频里的音频，快速裁切、排序和拼接，几段素材很快串成一首。 | [Otoji](https://github.com/woolpixels/Otoji) |
 
 ## 小众定制
 
