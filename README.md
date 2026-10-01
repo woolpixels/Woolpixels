@@ -69,6 +69,7 @@ iOS 应用，可直接在 App Store 下载。
 
 ## 📬 联系
 
+- 🏠 官网：[woolpixels.cc](https://woolpixels.cc/)
 - 🌐 GitHub：[github.com/woolpixels](https://github.com/woolpixels)
 - 📕 小红书：[Woolpixels](https://xhslink.cn/o/7EEkbW1Uyh8)
 - ✉️ 邮箱：[odyssey.moment@outlook.com](mailto:odyssey.moment@outlook.com)
