@@ -16,7 +16,7 @@ Hi，我是 Woolpixels，一名独立开发者。
 | 图标 | 名称 | 简介 | 下载 |
 | --- | --- | --- | --- |
 | <img src="assets/icons/odyssey.png" width="48" height="48" alt="追追追"> | **追追追** · Odyssey | 个人观影收藏。海报墙、片刻、我超爱、追剧日历，不抓取、不社交、不打扰，支持 iCloud 同步。 | [App Store](https://apps.apple.com/cn/app/%E8%BF%BD%E8%BF%BD%E8%BF%BD/id6772548326) |
-| <img src="assets/icons/gutlog.png" width="48" height="48" alt="便历"> | **便历** · GutLog | 轻量记录每日排便，用日历看见自己的规律。数据本地保存，支持 iCloud 同步、备份与导入导出。仅作个人记录，不提供医学诊断。 | [App Store](https://apps.apple.com/cn/app/%E4%BE%BF%E5%8E%86-%E6%8E%92%E4%BE%BF%E8%AE%B0%E5%BD%95/id6786214588) |
+| <img src="assets/icons/gutlog.png" width="48" height="48" alt="便历"> | **便历** · GutLog | 轻量记录每日排便，通过日历、地图与统计了解排便规律。支持离线记录、iCloud 同步、Apple 健康及数据备份导入导出。仅供个人记录，不提供医学诊断。 | [App Store](https://apps.apple.com/cn/app/%E4%BE%BF%E5%8E%86-%E6%8E%92%E4%BE%BF%E8%AE%B0%E5%BD%95/id6786214588) |
 
 ## 公开工具
 
@@ -35,10 +35,12 @@ Hi，我是 Woolpixels，一名独立开发者。
 为特定需求而做，不一定公开发布。
 
 - **剥ぎ** · Hagi：Figma 插件，一键将设计稿转换为尽可能视觉还原、可继续编辑的分层 PSD，并打包 PNG 与字体清单。
+- **拾影** · Kage：Figma 插件，按图片的真实轮廓，生成可编辑的矢量形状。
 - **粘粘又贴贴** · PasteDeck：面向运营物料的 Logo 排版工具。粘贴需求，快速找齐素材、完成排版，支持可编辑 SVG 复制与 PNG 批量打包。
 - **堆堆堆** · PilePilePile：文字构图工具。输入词条自动完成图形排布与图片遮罩，支持可编辑 SVG 与 PNG 导出。
 - **积読** · Tsundoku：个人阅读中枢。整合图书管理、听书、书摘、CP 章节抽取与 Kindle 阅读数据，也能同步到 Notion 读书笔记。
 - **阿忙的一天** · Workday：个人日常节律工具。整合工作、娱乐、任务、计时、提醒与每日复盘。
+- **拍档** · Pado：不打游戏，拿手柄和 AI 聊天。切换对话、按住说话、发送消息，双摇杆自由翻阅。
 
 ## 联系
 
